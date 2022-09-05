@@ -1,0 +1,5 @@
+![Gafik Pembagian Dataset](https://user-images.githubusercontent.com/56246122/188427737-8542cc02-1a20-46a1-8d88-ebc2e232ff89.png)
+![grafik penutupan harga saham](https://user-images.githubusercontent.com/56246122/188427862-bd7f2031-a6cf-4af7-8e1e-6449fd8b8c55.png)
+![hasil pemodelan LSTM data train](https://user-images.githubusercontent.com/56246122/188428024-af06a902-326a-413f-9f22-b059da44de85.png)
+![hasil pemodelan RNN data train](https://user-images.githubusercontent.com/56246122/188428032-f2c5921f-641d-4825-a4f2-b8e2c20a126b.png)
+![Hasil perbandingan LSTM dan RNN](https://user-images.githubusercontent.com/56246122/188428038-1042a730-1731-42a9-a3e7-da4c2514eb6e.png)
